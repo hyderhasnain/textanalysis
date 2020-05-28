@@ -25,6 +25,7 @@ cList = {
   "how's": "how is",
   "i'd": "i would",
   "i'd've": "i would have",
+  "idk": "i do not know",
   "i'll": "i will",
   "i'll've": "i will have",
   "i'm": "i am",
@@ -62,6 +63,7 @@ cList = {
   "shouldn't've": "should not have",
   "so've": "so have",
   "so's": "so is",
+  "tbh": "to be honest",
   "that'd": "that would",
   "that'd've": "that would have",
   "that's": "that is",
@@ -120,7 +122,6 @@ cList = {
 }
 
 stop_words_additional = [
-    'like',
     '\'s',
     'stuff',
     'also',
